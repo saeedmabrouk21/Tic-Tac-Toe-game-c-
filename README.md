@@ -1,5 +1,5 @@
 # Tic-Tac-Toe-game-c++-
--Our game is a single player versus AI . it uses min-max algorithm to play the role of AI.<br />
+-Our game is a single player versus AI . it uses min-max algorithm to play the role of AI.__
 -In a high level view we can look to our app as seperated parts<br />
   -1)Front-end which jop is to communicate with the user in app we achieve that through the console.<br />
   
