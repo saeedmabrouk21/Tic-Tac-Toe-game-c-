@@ -25,11 +25,11 @@
     ![image](https://github.com/saeedmabrouk21/Tic-Tac-Toe-game-cpp/assets/73306180/ee32d829-b3ff-4af7-b9bd-1412896e92d8)
   -### 2)Conect game-engine to min-max algorithm : we can use min-max algorthim with different depth numbers to provide differnt diffuclty levels . We used **Strategy design pattern** it separates the behavior of an object from the object itself<br />
      To implement that we created differnt classes<br />
-     ☼IDecisionMaker interface (game engine has object of that interface which behave differntly
-     ☼Easy, Medium and Hard classes implment IDecsionMaker
-       Easy : will play in the first available place in the board
-       Medium : will use min-max algorithm with depth = 2 
-       Hard : will use min-max algorithm with depth = 9(max depth for board)
+     ☼**IDecisionMaker** interface (game engine has object of that interface which behave differntly
+     ☼**Easy**, **Medium** and **Hard** classes implment IDecsionMaker
+       **Easy** : will play in the first available place in the board
+       **Medium** : will use **min-max** algorithm with depth = 2 
+       **Hard** : will use **min-max** algorithm with depth = 9(max depth for board)
     ![image](https://github.com/saeedmabrouk21/Tic-Tac-Toe-game-cpp/assets/73306180/28077119-9a64-45d7-a6a7-4e70b45ee1ae)
 
 
