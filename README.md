@@ -3,13 +3,13 @@
 ## - In a high level view we can look to our app as seperated parts<br />
    - 1)Front-end which jop is to communicate with the user in app we achieve that through the console.<br />
   <br />
-  ![image](https://github.com/saeedmabrouk21/Tic-Tac-Toe-game-cpp/assets/73306180/dd5c5acc-2cf0-4943-b916-f13191f87dff)
-  ![image](https://github.com/saeedmabrouk21/Tic-Tac-Toe-game-cpp/assets/73306180/a0ab80bb-d97e-4520-a421-e1bc40db4329)
-![image](https://github.com/saeedmabrouk21/Tic-Tac-Toe-game-cpp/assets/73306180/677da32d-d105-46dc-93ff-1fcd94a36b24)
-![image](https://github.com/saeedmabrouk21/Tic-Tac-Toe-game-cpp/assets/73306180/e6982b5e-84ac-4059-80a6-07f7a5071efe)
-  ![image](https://github.com/saeedmabrouk21/Tic-Tac-Toe-game-cpp/assets/73306180/117f5536-aba2-474c-933c-6d52fb1fcbdc)
-  ![image](https://github.com/saeedmabrouk21/Tic-Tac-Toe-game-cpp/assets/73306180/a7059490-216c-4ee7-8d71-ddcba01014e9)
-  <br /><br />
+  ![image](https://github.com/saeedmabrouk21/Tic-Tac-Toe-game-cpp/assets/73306180/dd5c5acc-2cf0-4943-b916-f13191f87dff) 
+  ![image](https://github.com/saeedmabrouk21/Tic-Tac-Toe-game-cpp/assets/73306180/a0ab80bb-d97e-4520-a421-e1bc40db4329) 
+![image](https://github.com/saeedmabrouk21/Tic-Tac-Toe-game-cpp/assets/73306180/677da32d-d105-46dc-93ff-1fcd94a36b24) 
+![image](https://github.com/saeedmabrouk21/Tic-Tac-Toe-game-cpp/assets/73306180/e6982b5e-84ac-4059-80a6-07f7a5071efe) 
+  ![image](https://github.com/saeedmabrouk21/Tic-Tac-Toe-game-cpp/assets/73306180/117f5536-aba2-474c-933c-6d52fb1fcbdc) 
+  ![image](https://github.com/saeedmabrouk21/Tic-Tac-Toe-game-cpp/assets/73306180/a7059490-216c-4ee7-8d71-ddcba01014e9) 
+  <br />
 
    - 2)Game-engine (The Device) it implements how the functionalites of game work (ex) how to save, how to load ..etc<br />
    - 3)min-max Algortihm which nessarily used by Game engine <br />
