@@ -1,7 +1,7 @@
 # Tic-Tac-Toe-game-c++-
 -Our game is a single player versus AI . it uses min-max algorithm to play the role of AI.<br />
 ## - In a high level view we can look to our app as seperated parts<br />
-  ### - 1)Front-end which jop is to communicate with the user in app we achieve that through the console.<br />
+   - 1)Front-end which jop is to communicate with the user in app we achieve that through the console.<br />
   <br />
   ![image](https://github.com/saeedmabrouk21/Tic-Tac-Toe-game-cpp/assets/73306180/dd5c5acc-2cf0-4943-b916-f13191f87dff)
   ![image](https://github.com/saeedmabrouk21/Tic-Tac-Toe-game-cpp/assets/73306180/a0ab80bb-d97e-4520-a421-e1bc40db4329)
@@ -11,8 +11,8 @@
   ![image](https://github.com/saeedmabrouk21/Tic-Tac-Toe-game-cpp/assets/73306180/a7059490-216c-4ee7-8d71-ddcba01014e9)
   <br /><br />
 
-  ### - 2)Game-engine (The Device) it implements how the functionalites of game work (ex) how to save, how to load ..etc<br />
-  ### - 3)min-max Algortihm which nessarily used by Game engine <br />
+   - 2)Game-engine (The Device) it implements how the functionalites of game work (ex) how to save, how to load ..etc<br />
+   - 3)min-max Algortihm which nessarily used by Game engine <br />
 ## - Now the Idea is how to connect these pieces<br />
    1)Conect Front-end With game-engine : we Achieved that by using **Command design pattern** it  encapsulates a request as an object, thereby letting us parameterize other objects with different requests.<br />
       To implement that we created differnt classes<br />
